@@ -1,29 +1,29 @@
 Aquí tienes el README completo convertido en código para que lo copies y pegues directamente en tu archivo `README.md`:
 
 ````markdown
-# 🅿️ Sistema de Gestión de Parqueadero
+#🅿️ Sistema de Gestión de Parqueadero
 
 Un sistema completo de gestión de parqueaderos desarrollado en Node.js que permite administrar usuarios, vehículos, celdas de estacionamiento, control de accesos y generación de reportes.
 
 ## ✨ Características Principales
 
 ### 👥 Gestión de Usuarios
-- **Tres tipos de usuarios**: Administrador, Operador y Usuario
-- **Registro y autenticación** con validación de documentos
-- **Estados de usuario**: Activo/Inactivo
-- **Actualización de datos** personales
+- Tres tipos de usuarios: Administrador, Operador y Usuario
+- Registro y autenticación con validación de documentos
+- Estados de usuario: Activo/Inactivo
+- Actualización de datos personales
 
 ### 🚗 Gestión de Vehículos
-- **Registro de vehículos** (carros y motos)
-- **Asignación a propietarios**
-- **Validación de Pico y Placa**
-- **Actualización y reasignación** de vehículos
+- Registro de vehículos (carros y motos)
+- Asignación a propietarios
+- Validación de Pico y Placa
+- Actualización y reasignación de vehículos
 
 ### 🅿️ Gestión de Celdas
-- **20 celdas iniciales** (15 para carros, 5 para motos)
-- **Dos áreas**: Piso 1 y Piso 2
-- **Estados**: Disponible/Ocupado
-- **Filtrado por área y estado**
+- 20 celdas iniciales (15 para carros, 5 para motos)
+- Dos áreas: Piso 1 y Piso 2
+- Estados: Disponible/Ocupado
+- Filtrado por área y estado
 
 ### 🔐 Control de Accesos
 - **Registro de entradas y salidas**
